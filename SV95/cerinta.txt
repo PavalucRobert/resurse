@@ -1,0 +1,5 @@
+Cerinte SV95:
+
+Kot: Utilizand o fabrica abstracta sa se scrie un program Kotlin care permite crearea la cerere a trei obiecte (student, profesor, secretar) acestea la randul lor permit crearea de obiecte specifice (la profesori cream direct prof, conf, sl, as; la student: integralist, restantier si repetent; la secretar cream secretar sef si secretar I sau II)
+
+Py: Sa se scrie un program Python (utilizand threading) care va utiliza subclase active (cu un fir) pentru procesarea simultana a unui hasmap bazata pe functii pure. Clasa de baza va stabili operatiile (de ex adunare, scadere inmultire binara pe 16 biti) iar subclasele vor pune la dispozitie obiecte care se executa in fire separate. Se va utiliza rlock().

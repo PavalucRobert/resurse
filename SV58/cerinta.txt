@@ -1,0 +1,5 @@
+Cerinte SV58:
+
+Kot86 - Utilizand Kotlin si OOP sa se creeze (KBD sau din program) un grup de oameni care pot efectua (cu totii) urmatoarele activitati: mananca, beau, danseaza. Fiecare om este diferit deci functiile vor primi parametri diferiti. Pornind de la urmatoarele declaratii sa se creeze un program care raspunde la intrebari: Ion mananca mere, bea bere si danseaza cu femei. Vasile mananca pere bea vodca si danseaza cu barbati. Alex bea vin mananca prajituri brune si danseaza cu sefi. Exemplu de intrebare: Cu cine poate dansa Vasile si ce pot manca barbatii dar ce pot manca femeile? Se va folosi polimorfismul. Se va desena diagrama UML (clase si obiecte). Se va explica maniera de aplicare a principiilor SOLID.
+
+Py371 - Sa se scrie un program Python (utilizand threading) care va utiliza subclase active (cu un fir) pentru procesarea simultana a unui hasmap bazata pe functii pure. Clasa de baza va stabili operatiile (de ex adunare, scadere, inmultire binara pe 16 biti ) iar subclasele vor pune la dispozitie obiecte care se executa in fire separate. Se va prezenta diagrama de clase si de obiecte. Se vor utiliza semafoare

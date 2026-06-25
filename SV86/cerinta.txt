@@ -1,0 +1,5 @@
+Cerinte SV86:
+
+Kot 76 - Utilizand modelul observator sa se creeze in pentru un obiect de tip recalculare a pretului, in functie de niste rate de reducere introduse extern de la tastatura (prin intermediul unui model proxy cu validare pe user, parola), un logger (scriere automata in jurnal a operatiilor) care va scrie intr-un fisier separat user si data la care a fost efectuata modificarea de pret si ce modificare a fost realizata. Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.
+
+Py306 - Utilizand fabrica de fabrici sa se creeze un program Python care in functie de limba selectata in apel sa intoarca un buton a carui eticheta sa fie in limba selectata la apel si apoi acesta sa fie afisat pe ecran utilizand tkinter. Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.

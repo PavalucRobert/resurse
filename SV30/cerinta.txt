@@ -1,0 +1,5 @@
+Cerinte SV30:
+
+Kot34: Utilizand sa se scrie un program Kotlin care preia un fisier text (scris de programator) la intrare organizeaza cuvintele intr-un arbore binar utilizand o constrangere la alegere iar apoi cu ajutorul unei clase specifice si al functorilor va afisa portiuni din arbore.
+
+Pyth361: S[ se creeze o aplicatie Python pentru rezervarea unei camera de hostel. Camerele (cu atributele si operatorii lor) sunt obiecte si sunt retinute intr-un adt. Cu ajutorul unor decoratori implementati OOP peste functiile de baza se vor implementa un flux suplimentar de a tratare platii urmatorului serviciu suplimentar: consum din barul camerei cand se genereaza nota de plata. Se vor prezenta si diagramele de clase si obiecte. Se va explica maniera de aplicare a principiilor SOLID.

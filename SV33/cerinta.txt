@@ -1,0 +1,5 @@
+Cerinte SV33:
+
+Kot39 - Utilizand Kotlin functiile pentru procesare submultimi din se va prelua un fisier text (creat de programator cu cateva propozitii in el) si se vor extrage doua caractere din mijlocul cuvantului daca cuvantul are minim patru caractere. Se va utiliza combinatie cu lambda peste colectii pentru procesare.
+
+Pyth341 - Utilizand modelul mediator sa se creeze un program Python care sa permita comunicarea prin mesaje intre niste obiecte de tip furnica (e.g. mesaje mancare, drum bun, pericol, ajutor). Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.
