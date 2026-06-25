@@ -36,9 +36,8 @@ async def pipeline_asincron(dict_date: dict):
 def main():
     date = {0: 1, 1: 2, 2: 3, 3: 4, 4: 5, 5: 6}
     
-    # Instantiem event loop-ul asincron
+    # Rulam pipeline-ul asincron folosind asyncio.run
     rezultat = asyncio.run(pipeline_asincron(date))
-    
     
     print("Dictionar rezultat in urma pipeline-ului asyncio:", rezultat)
 
