@@ -1,4 +1,4 @@
-Cerinte SV108:
+# Cerințe SV108
 
 Kot101: Sa se realizeze un program Kotlin care va aplica memoizarea generalizata pentru calculul sirului f(i)=f(i-1)+f(i-2) pentru i=1..n, utilizand un concurrent hasmap.
 

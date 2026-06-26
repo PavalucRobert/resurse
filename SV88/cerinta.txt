@@ -1,5 +1,0 @@
-Cerinte SV88:
-
-Kot91 - Sa se scrie un program Kotlin care va utiliza subclase active (cu mutex si lock) pentru procesarea simultana a unui hasmap bazata. Clasa de baza va stabili operatiile (de ex adunare, scadere inmultire impartire) iar subclasele vor pune la dispozitie obiecte care se executa in fire separate. Se va prezenta diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.
-
-Py308 - Utilizand fabrica de fabrici sa se creeze un program Python care va afisa in functie de apel in mod grafic un patrat un dreptunghi sau un cerc. Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.

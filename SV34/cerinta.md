@@ -1,4 +1,4 @@
-Cerinte SV34:
+# Cerințe SV34
 
 Kot40: Utilizand functiile pentru procesare submultimi din Kotlin se va prelua un fisier text (creat de programator cu cateva propozitii in el) si se vor sterge primele doua caractere daca cuvantul are minim patru caractere. Se va utiliza combinatia cu lambda peste colectii pentru procesare.
 

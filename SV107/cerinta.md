@@ -1,0 +1,9 @@
+# Cerințe SV107
+
+## Kot100
+
+Sa se scrie un program Kotlin care va crea echivalentul unei bariere (si apoi o va utiliza intr-un exemplu simplu de genul sume de valori dintr-un hasmap realizate pe mai multe fire Java). Implementarea acestei bariere se va baza pe fire Java (apelate din programul Kotlin) si pe mecanismele wait, notify si notify all.
+
+## Pyth333
+
+Utilizand modelul fatada in cadrul unui program Python sa se creeze un obiect de tip boombox (acesta este compus din metode specifice: play, record, fast forward, rewind, record, radio, volume, batery status, etc). Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.

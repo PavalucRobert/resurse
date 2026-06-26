@@ -1,4 +1,4 @@
-Cerinte SV30:
+# Cerințe SV30
 
 Kot34: Utilizand sa se scrie un program Kotlin care preia un fisier text (scris de programator) la intrare organizeaza cuvintele intr-un arbore binar utilizand o constrangere la alegere iar apoi cu ajutorul unei clase specifice si al functorilor va afisa portiuni din arbore.
 

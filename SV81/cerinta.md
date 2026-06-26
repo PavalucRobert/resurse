@@ -1,4 +1,4 @@
-Cerinte SV81:
+# Cerințe SV81
 
 Kot71: Utilizand modelul adaptor sa se creeze un program Kotlin care va primi la intrare diverse tipuri de date simple sau de tip colectie si va realiza scriere lor intr-un fisier ca o singura operatie care primeste doar obiectul si nume fisier. Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.
 

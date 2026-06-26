@@ -1,0 +1,9 @@
+# Cerințe SV93
+
+## Kot93
+
+Sa se scrie un program Kotlin care va utiliza subclase active (cu actori) pentru procesarea simultana a unui hasmap bazata. Clasa de baza va stabili operatiile (de ex adunare, scadere inmultire impartire) iar subclasele vor pune la dispozitie obiecte care se executa in fire separate. Se va prezenta diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.
+
+## Py310
+
+Utilizand modelul prototip sa se deseneze in mod grafic utilizand Python mai multe carucioare identice plasate in diverse pozitii. Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.

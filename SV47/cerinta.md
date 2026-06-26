@@ -1,0 +1,9 @@
+# Cerințe SV47
+
+## Kot60
+
+Pornind de la doua multimi A si B care contin 20 de elemente depuse in doua colectii separate si tinand cont de A x B = {(a,b) | a apartine A si b apartine B}, sa se scrie un program Kotlin care va calcula (A x B) U (B x B) utilizand functii specifice colectiilor si eventual lambda calcul urmatoarele. Rezultatul este depus intr-un dictionar iar acesta va fi afisat.
+
+## Pyth338
+
+Cu ajutorul modelului memento sa se creeze un program Python care va permite aplicarea succesiva a unor lambda functii peste o colectie si apoi va restaura obiectele la starea anterioara in momentul in care acest lucru este cerut (consola) (f1(x)=daca x par atunci x=x+1, f2(x)=3x*x-2*x+1, f3(x,y)=x+y). Se vor desena diagrama de clase si de obiecte. Se va explica maniera de aplicare a principiilor SOLID.

@@ -1,4 +1,4 @@
-Cerinte SV95:
+# Cerințe SV95
 
 Kot: Utilizand o fabrica abstracta sa se scrie un program Kotlin care permite crearea la cerere a trei obiecte (student, profesor, secretar) acestea la randul lor permit crearea de obiecte specifice (la profesori cream direct prof, conf, sl, as; la student: integralist, restantier si repetent; la secretar cream secretar sef si secretar I sau II)
 

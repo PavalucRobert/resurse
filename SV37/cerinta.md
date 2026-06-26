@@ -1,0 +1,9 @@
+# Cerințe SV37
+
+## Kot37
+
+Utilizand generice si colectii. Sa se creeze in Kot. un obiect functor care se comporta ca un aplicativ si furnizeaza operatii de tip sumCu 5 si MulCu 7.
+
+## Py358
+
+Sa se creeze o aplicatie Python de rezervare a unei camere de Hotel. Camerele (cu atribute si operatiile lor) sunt obiecte si sunt retinute intr-un ADT. Cu ajutorul unor decoratori peste functiile de baza se vor implementa un flux suplimentar de a tratare a unei liste de asteptare in caz de cerere de rezervare care nu poate fi satisfacuta imediat. Se vor prezenta si diagramele clase + obiecte.
