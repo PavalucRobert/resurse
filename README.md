@@ -2,6 +2,7 @@
 
 | Subiect | Kotlin | Python |
 |---|---|---|
+| [S11](./S11)     | Kot23  | Pyt26  |
 | [SV26](./SV26)   | Kot30  | Pyt357 |
 | [SV30](./SV30)   | Kot34  | Pyth361 |
 | [SV32](./SV32)   | Kot38  | Pyt356 |

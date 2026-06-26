@@ -1,0 +1,5 @@
+Cerinte S11:
+
+Kot-23 - Să se proiecteze și să se implementeze o aplicație care citește dintr-un fișier un text scris de student care conține și erori de scriere a unor cuvinte. Aceasta extrage și analizează fiecare cuvânt, verificând un dicționar (separat dat de student cu câteva forme corecte de cuvinte). Totul se realizează într-o corutină. De asemenea, cu observer (similar cu autocorrect-ul din Word) declanșez întrebarea în momentul în care întâlnesc un cuvânt greșit dacă doresc corectarea cuvântului, iar cu memento permit să fac undo peste corecturile deja efectuate. Se vor desena diagrama de clase și de obiecte.
+
+Pyt-26 - Să se scrie un program Python care va utiliza modelul mediator pentru a realiza o interacțiune de tipul transmitere bidirecțională (folosind cozi între procese) între studenți și profesori utilizând asistentul (un obiect profesor, unul asistent și mai multe obiecte student). Se vor desena diagrama de clase și de obiecte. Se va explica maniera de aplicare a principiilor SOLID.
