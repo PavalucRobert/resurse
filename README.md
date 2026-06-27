@@ -17,6 +17,7 @@
 | [SV50](./SV50)   | Kot62  | Pyth335 |
 | [SV51](./SV51)   | Kot63  | Py364  |
 | [SV53](./SV53)   | Kot65  | Py366  |
+| [S54](./S54)     | Kot39  | Pyt80  |
 | [SV58](./SV58)   | Kot86  | Py371  |
 | [SV65](./SV65)   | Kot95  | Py378  |
 | [SV70](./SV70)   | Kot100 | Py379  |
